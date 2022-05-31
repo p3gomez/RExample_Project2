@@ -1,0 +1,5 @@
+HSP70 Inhibitor,Drug/dose (mg/kg)*,Drug insertion type,Tumor,"Markers, degradation","Markers, induction",Drug tumor retention (ug/g),hr post administration,Comments
+17-DMAG,75,Intravenous,MDA-MB-231,Raf-1,Hsp70,2.5,24,Minimal Raf-1 degradation (< 20%) at 24 h p.a. [114]
+17-DMAG,75,Intravenous,MDA-MB-232,Raf-1,Hsp70,2,48,
+PU-H71,75,Intraperitoneal,MDA-MB-231,p-AKT,Hsp70,1.8,48,
+PU-H71,75,Intraperitoneal,BT-474,HER2,Hsp70,0,0,
